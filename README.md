@@ -1,4 +1,4 @@
-# khush
+Hi, I'm Khush 👋
 
-hey..!! 
-This is my first GitHub file.
+🎓 Student | 💻 Full Stack Developer (MERN)
+📍 India
