@@ -53,8 +53,13 @@
 ## 📊 GitHub Stats
 
 <p align="center">
-<img src="https://github-readme-streak-stats.herokuapp.com/?user=KhushPatel2210" />
+  <!-- <img src="https://github-readme-stats.vercel.app/api?username=KhushPatel2210&show_icons=true&theme=tokyonight&include_all_commits=true&count_private=true" />
+  <br/> -->
+  <img src="https://github-readme-streak-stats.herokuapp.com/?user=KhushPatel2210&theme=tokyonight" />
+  <br/>
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=KhushPatel2210&layout=compact&theme=tokyonight" />
 </p>
+
 
 ---
 
