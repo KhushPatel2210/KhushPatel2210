@@ -60,6 +60,12 @@
   <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=KhushPatel2210&layout=compact&theme=tokyonight" />
 </p>
 
+<p align="center">
+  <img src="https://github-readme-streak-stats.herokuapp.com/?user=KhushPatel2210&theme=tokyonight" />
+  <br/><br/>
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=KhushPatel2210&layout=compact&theme=tokyonight" />
+</p>
+
 
 ---
 
